@@ -1,0 +1,10 @@
+#EXTM3U
+                                             L A S T           U P D A T E          2 2 / 0 3 / 2 0 1 6 
+
+
+#EXTINF:0 tvg-logo="" group-title="Sports",Real Madrid TV  (ES) 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+
+
